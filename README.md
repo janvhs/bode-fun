@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Jan](https://www.bode.fun)
 - 👀 I’m interested in skateboarding 🛹, music 🎸 and tech 🖲️
-- 🌱 I’m currently learning the occasional song 🎵, Rust 🦀 and TypeScript 📝
+- 🌱 I’m currently learning the occasional song 🎵 Rust 🦀 PHP 🐘 and TypeScript 📝
 - 💞️ I’m looking to collaborate on various Linux related things 🐧😸
 - 📫 You can reach me via email: <git@bode.fun> [💌](mailto:git@bode.fun)
 
