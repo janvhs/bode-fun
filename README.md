@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bode-fun
+- 👋 Hi, I’m [Jan](https://www.bode.fun)
 - 👀 I’m interested in skateboarding 🛹, music 🎸 and tech 🖲️
 - 🌱 I’m currently learning the occasional song 🎵, Rust 🦀 and TypeScript 📝
 - 💞️ I’m looking to collaborate on various Linux related things 🐧😸
