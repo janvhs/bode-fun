@@ -8,7 +8,14 @@
 
 For Linux and Mac/OSX users:
 ```bash
+# Terminal
 sh -c "echo email: $(echo Z2l0QGJvZGUuZnVuCg== | base64 -d)"
+```
+
+For Windows users:
+```powershell
+# Powershell
+Write-Output "email: $([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('Z2l0QGJvZGUuZnVuCg==')))"
 ```
 
 <!---
