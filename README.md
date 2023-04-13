@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jan
 - 👀 I’m interested in skateboarding 🛹, music 🎸 and tech :octocat:
-- 🌱 I’m currently learning the occasional song 🎵 Go 🐭 PHP 🐘 and TypeScript 📝
+- 🌱 I’m currently learning the occasional song 🎵 Go 🐭 PHP with Laravel 🐘 and TypeScript 📝
 - 📫 You can reach me via email 😸 
   - Just execute the shell commands (I dont want Robots to send me spam)  
 
