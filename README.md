@@ -1,8 +1,8 @@
 - ✌️ Hi, I’m Jan
 - 👀 I’m interested in skateboarding 🛹, music 🎸 and tech :octocat:
 - 🌱 I’m currently learning the occasional song 🎵 Go 🐭 PHP with Laravel 🐘 Swift 🦤 and TypeScript 📝
-- 🦄 I'm hyped about Webassembly annd wasi
-- ⚛️ Very deep into the inner workings of UI-libraries and signals
+- 🦄 I'm hyped about Webassembly and wasi
+- ⚛️ Very deep into the inner workings of UI-libraries
 - 📫 You can reach me via email or mastodon 😸 
   - Just execute the shell commands below (I dont want robots to send me spam)  
 
