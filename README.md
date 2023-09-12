@@ -1,5 +1,13 @@
 # Hi, I’m Jan ✌️
 
+I am a professional full-stack engeneer, but I prefer the backend or developing CLI programs.
+
+To get an overview, about what I do in my spare time, please take a look at my pinned repos.
+
+I'm currently trying to get started with compiler development and I'm planing to create the simple
+statically typed language Mirim, which compiles to WASM, before tackeling my *dream toy language* Bingus.
+
+
 ## A few bullet points about me:
 
 - 🐳 "The Linux and Docker guy" ~ A coworker
@@ -14,6 +22,9 @@
   <p>Skatepark Schlachthaus, Bremen</p>
 </div>
 
+## Public Work
+
+Sadly, the only work, that is available publically, is the Website of [e.Guard](https://eguard.de/).
 
 ## Contact 📫
 
