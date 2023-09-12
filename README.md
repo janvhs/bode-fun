@@ -1,5 +1,5 @@
 - ✌️ Hi, I’m Jan
-- 🐳 "The Docker guy" ~ A coworker
+- 🐳 "The Linux and Docker guy" ~ A coworker
 - 👀 I’m interested in skateboarding 🛹, music 🎸 and tech :octocat:
 - 🌱 I’m currently learning the occasional song 🎵 Go 🐭 and a bit of C++ 🐉
 - 🫡 I write PHP with Laravel 🐘 Swift 🦤 and TypeScript 📝 on a per need basis
