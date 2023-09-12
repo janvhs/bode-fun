@@ -2,10 +2,10 @@
 
 I am a professional full-stack engeneer, but I prefer the backend or developing CLI programs.
 
-To get an overview, about what I do in my spare time, please take a look at my pinned repos.
+To get an overview, about what I do in my spare time, please take a look at my pinned repos below.
 
 I'm currently trying to get started with compiler development and I'm planing to create the simple
-statically typed language Mirim, which compiles to WASM, before tackeling my *dream toy language* Bingus.
+statically typed language [Mirim](https://git.bode.fun/mirim), which compiles to WASM, before tackling my *dream toy language* [Bingus](https://git.bode.fun/bingus).
 
 
 ## A few bullet points about me:
