@@ -1,20 +1,26 @@
-# Hi, I’m Jan
-
-<div align="center">
-  <img src="https://github.com/bode-fun/bode-fun/assets/115655929/04a560c9-e8d1-4cb9-b282-170a8755641a" style="width: 400px" alt="Me skating in a pool">
-  <p>Skatepark Schlachthaus, Bremen</p>
-</div>
+# Hi, I’m Jan ✌️
 
 ## A few bullet points about me:
 
 - 🐳 "The Linux and Docker guy" ~ A coworker
 - :octocat: I’m interested in skateboarding, music, art and tech
-- 🐉 I’m currently learning a few Temmis songs, **Go** and a bit of **C++**
+- ❤️ My favourite band is "Temmis" from Hamburg and I enjoy going to art museums
+- 🐉 I’m currently learning **Go** and a bit of **C++**
 - 🫡 I write **PHP with Laravel** Swift and **TypeScript** on a per need basis
-- 📫 You can reach me via email or [mastodon](https://fosstodon.org/@rollbrettklauen)
-  - Just execute the shell commands below (I dont want robots to send me spam)
 
 
+<div align="center">
+  <img src="https://github.com/bode-fun/bode-fun/assets/115655929/04a560c9-e8d1-4cb9-b282-170a8755641a" style="width: 300px" alt="Me skating in a pool">
+  <p>Skatepark Schlachthaus, Bremen</p>
+</div>
+
+
+## Contact 📫
+
+You can reach me via email or [mastodon](https://fosstodon.org/@rollbrettklauen).
+
+To reach me via email, please put `aGVsbG8uZ2l0QGJvZGUuZnVuCg==` into an [online base64 decoder](https://www.base64decode.org/)
+or execute the shell commands below (I dont want robots to send me spam)
 
 For Linux and Mac/OSX users:
 ```bash
