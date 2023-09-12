@@ -1,8 +1,9 @@
 - ✌️ Hi, I’m Jan
+- 🐳 "The Docker guy" ~ A coworker
 - 👀 I’m interested in skateboarding 🛹, music 🎸 and tech :octocat:
-- 🌱 I’m currently learning the occasional song 🎵 Go 🐭 PHP with Laravel 🐘 Swift 🦤 and TypeScript 📝
+- 🌱 I’m currently learning the occasional song 🎵 Go 🐭 and a bit of C++ 🐉
+- 🫡 I write PHP with Laravel 🐘 Swift 🦤 and TypeScript 📝 on a per need basis
 - 🦄 I'm hyped about Webassembly and wasi
-- ⚛️ Very deep into the inner workings of UI-libraries
 - 📫 You can reach me via email or mastodon 😸 
   - Just execute the shell commands below (I dont want robots to send me spam)  
 
