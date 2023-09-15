@@ -14,7 +14,7 @@ statically typed language [Mirim](https://git.bode.fun/mirim), which compiles to
 - :octocat: I’m interested in skateboarding, music, art and tech
 - ❤️ My favourite band is "Temmis" from Hamburg and I enjoy going to art museums
 - 🐉 I’m currently learning **Go** and a bit of **C++**
-- 🫡 I write **PHP with Laravel** Swift and **TypeScript** on a per need basis
+- 🫡 I write **PHP with Laravel**, **Swift** and **TypeScript** on a per need basis
 
 
 <div align="center">
