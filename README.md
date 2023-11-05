@@ -5,7 +5,7 @@ I am a professional full-stack engeneer, but I prefer the backend or developing 
 To get an overview, about what I do in my spare time, please take a look at my pinned repos below.
 
 I'm currently trying to get started with compiler development and I'm planing to create the simple
-statically typed toy language [Mirim](https://git.bode.fun/mirim), which compiles to WASM, before tackling my *dream toy language* [Bingus](https://git.bode.fun/bingus).
+statically typed toy language [Axo](https://git.bode.fun/axo).
 
 
 ## A few bullet points about me:
@@ -13,8 +13,9 @@ statically typed toy language [Mirim](https://git.bode.fun/mirim), which compile
 - 🐳 "The Linux and Docker guy" ~ A coworker
 - :octocat: I’m interested in skateboarding, music, art and tech
 - ❤️ My favourite band is "Temmis" from Hamburg and I enjoy going to art museums
-- 🐉 I’m currently learning **Go** and a bit of **C++**
-- 🫡 I write **PHP with Laravel**, **Swift** and **TypeScript** on a per need basis
+- 🫶 I mainly write programs in **Go**
+- 🐉 I’m currently learning **OCaml** and a bit of **C++**
+- 🫡 I write **PHP with Laravel**, **Swift**, **Rust** and **TypeScript** on a per need basis
 
 
 <div align="center">
